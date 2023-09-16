@@ -1,6 +1,6 @@
 {
   "name": "react-simple-ui-components",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react library",
   "main": "./dist/index.js",
   "scripts": {
@@ -11,7 +11,14 @@
     "type": "git",
     "url": "git+https://Gasparyan1999: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@github.com/Gasparyan1999/react-simple-ui-components.git"
   },
-  "keywords": [],
+  "keywords": [
+    "React",
+    "Simple",
+    "Component",
+    "UI",
+    "Button",
+    "Loader"
+  ],
   "author": "Gasparyan1999",
   "license": "ISC",
   "bugs": {
