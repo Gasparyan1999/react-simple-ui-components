@@ -1,0 +1,39 @@
+{
+  "name": "react-simple-ui-components",
+  "version": "0.0.2",
+  "description": "react library",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Gasparyan1999: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@github.com/Gasparyan1999/react-simple-ui-components.git"
+  },
+  "keywords": [],
+  "author": "Gasparyan1999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gasparyan1999/react-simple-ui-components/issues"
+  },
+  "homepage": "https://github.com/Gasparyan1999/react-simple-ui-components#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.21",
+    "css-loader": "^6.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "style-loader": "^3.3.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "files": [
+    "dist"
+  ]
+}

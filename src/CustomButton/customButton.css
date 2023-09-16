@@ -1,0 +1,16 @@
+.button-container {
+  border: 1px solid #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.button-container:hover {
+  transform: scale(1.05);
+}

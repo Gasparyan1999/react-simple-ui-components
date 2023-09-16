@@ -1,2 +1,3 @@
 # react-simple-ui-components
-react library
+[WIP] version
+React simple components library
