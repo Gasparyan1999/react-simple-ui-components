@@ -17,7 +17,8 @@
     "Component",
     "UI",
     "Button",
-    "Loader"
+    "Loader",
+    "JS"
   ],
   "author": "Gasparyan1999",
   "license": "ISC",
